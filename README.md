@@ -16,8 +16,8 @@ This project helped me practice structuring semantic HTML, using Flexbox for lay
 
 #### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/Bheem-Works/Qr-Card.git]
+- Live Site URL: [https://qr-card-eosin.vercel.app/]
 
 ##### My process
 I started by setting up the basic HTML structure for the QR code card. I used semantic tags like `<main>`, `<section>`, and `<img>` to keep it accessible and organized.
@@ -42,8 +42,8 @@ This project helped me practice:
 - Working with rem/em units for scalable design
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yourusername](https://github.com/yourusername)
+- Frontend Mentor - [@Bheem-Works](https://www.frontendmentor.io/profile/Bheem-Works)
+- GitHub - [@Bheem-Works](https://github.com/Bheem-Works);
 
 ## Acknowledgments
 
